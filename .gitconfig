@@ -1,0 +1,8 @@
+[user]
+	email = ninja@ninjabanjo.guru
+	name = Ninja Banjo
+[push]
+	default = simple
+[core]
+	excludesfile = /home/derek/.gitignore
+	editor = vim
