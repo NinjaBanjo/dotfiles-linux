@@ -6,3 +6,6 @@ chmod +x ~/code/z/z.sh
 
 # pydf and ncdu for my pleasure
 sudo apt-get install pydf ncdu
+
+# install Vundle
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
